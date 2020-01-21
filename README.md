@@ -1,2 +1,4 @@
-# dcgot
-Typos made fun
+dcgot
+=====
+
+Typos made fun for realz.
