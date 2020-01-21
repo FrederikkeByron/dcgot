@@ -4,3 +4,5 @@
 import argparse
 import os
 import sys
+
+print("Oh no, nothings been done yet")
