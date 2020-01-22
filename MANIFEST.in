@@ -1,9 +1,9 @@
 
 include README.md
-include LICENSE.md
+include LICENSE
+include COPYRIGHT
 
 recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
 
 rerursive-include dcgot/memes *.*
-recursive-include docs *.rst conf.py Makefile make.bat *.jpg *.png *.gif
