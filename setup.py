@@ -10,6 +10,7 @@ with open('README.md') as readme_file:
 requirements = [
     'python-aalib',
     'toml',
+    'pillow',
 ]
 
 test_requirements = [
