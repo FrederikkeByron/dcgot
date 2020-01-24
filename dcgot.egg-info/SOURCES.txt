@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+dcgot/__init__.py
+dcgot/utils.py
+dcgot.egg-info/PKG-INFO
+dcgot.egg-info/SOURCES.txt
+dcgot.egg-info/dependency_links.txt
+dcgot.egg-info/not-zip-safe
+dcgot.egg-info/requires.txt
+dcgot.egg-info/top_level.txt
+scripts/dcgot.py
